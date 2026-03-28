@@ -23,25 +23,26 @@ public class Expresiones_Aritmeticas {
         System.out.println(d); // d = 2
 
         // Programa expr5
-        a = 2;
-        b = 3;
+        double a2 = 2;
+        double b2 = 3;
         double c1 = 0.5;
-        a *= b;
-        a *= c1;
-        a *= c1;
-        a *= b;
-        System.out.println(a); // a = 3
+        a2 *= b2;
+        a2 *= c1;
+        a2 *= c1;       
+        a2 *= b2;
+        System.out.println(a2); // a2 = 4.5
 
-        // Programa expr6
-        a = 2;
-        b = 3;
-        double c2 = 0.5;
-        a *= b;
-        a *= c2;
-        a *= c2;
-        a *= b;
-        System.out.println(a); // a = 3
-        
+
+        // Programa expr6;
+        int a3 = 2;
+        int b3 = 3;
+        double c3 = 0.5;
+        a3 *= b3;
+        a3 *= c3;
+        a3 *= c3;
+        a3 *= b3;
+        System.out.println(a3); // a = 3
+
 
     }
 }
