@@ -32,7 +32,6 @@ public class Expresiones_Aritmeticas {
         a2 *= b2;
         System.out.println(a2); // a2 = 4.5
 
-
         // Programa expr6;
         int a3 = 2;
         int b3 = 3;
